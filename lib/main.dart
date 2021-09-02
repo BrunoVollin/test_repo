@@ -29,10 +29,7 @@ class MyHomePage extends StatelessWidget {
       body: Center(
         child: Column(
           children: [
-            Text("bom dia"),
-            Text("bom dia"),
-            Text("bom dia"),
-            Text("bom dia"),
+            TextField()
           ],
         ),
       ),
