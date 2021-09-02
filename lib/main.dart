@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Aulona de Segunda'),
+      home: MyHomePage(title: 'Aulona de Segundas'),
     );
   }
 }
