@@ -29,7 +29,10 @@ class MyHomePage extends StatelessWidget {
       body: Center(
         child: Column(
           children: [
-            TextField()
+            TextField(
+              decoration: InputDecoration(),
+            ),
+            TextField(),
           ],
         ),
       ),
